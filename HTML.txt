@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1> MI PAGINA WEB DE SASTRERIA</h1>
+
+    <header> <h2>Redes Sociales</h2>
+        <span>icono</span>    <span>web</span>     <span>foto</span>
+    </header>
+
+<main>
+    <img src="./12443.jpg" alt="">
+    <section>
+
+  <article>
+
+  <h2>Mision</h2>
+
+  <h2>Vision</h2>
+  <div>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nobis, veniam placeat exercitationem,
+       maxime dolorem aspernatur ipsam similique dolore adipisci vel explicabo sequi repellendus quia vitae commodi fugit quam perferendis.</p>
+    </div>
+       <hr />
+  <h2>Prendas</h2>
+  <p>Esta es una noticia N 2</p>
+  <ol>
+      <li>ICONO</li>
+      <li>IMAGEN</li>
+      <li>DETALLE</li>
+  </ol>
+  <hr />
+  <h2>Contactos</h2>
+  <ul>
+      <li>ICONO</li>
+      <li>IMAGEN</li>
+      <li>DETALLE</li>
+  </ul>
+  <hr />
+</article> 
+   <article>
+    <h3>Instagram, facebook</h3>
+</article>
+</section>
+
+</main>
+   <footer>
+    <p>
+    este es el footer de mi pagina. ahora voy a poner unos enlaces 
+    <a href="./contacto.html">formularo contaacto</a>
+    </p>
+   </footer>
+
+</body>
+</html>
